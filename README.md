@@ -77,6 +77,7 @@ To apply for this post, I'll need to create a dashboard to assess and provide pr
 
   <h2>2. Design</h2>
     <li><a href="https://openclassrooms.com/fr/courses/5238041-communiquez-et-formalisez-vos-idees-par-le-storytelling">Openclassrooms : Communiquez et formalisez vos idées par le storytelling</a></li>
+    <li><a href="https://www.tableau.com/fr-fr/interactive-resume-gallery">Tableau Public : Interactive resume gallery</a></li>
  
   <h2>3. Softskills</h2>
     <li><a href="https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public">Openclassrooms : Prenez la parole en public</a></li>
