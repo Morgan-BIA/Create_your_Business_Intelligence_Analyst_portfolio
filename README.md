@@ -78,6 +78,8 @@ To apply for this post, I'll need to create a dashboard to assess and provide pr
     <li><a href="https://public.tableau.com/app/profile/andy.kriebel/viz/VisualVocabulary/VisualVocabulary">Tableau Public 'Andy Kriebel': Visual Vocabulary</li>
     <li><a href="https://www.tableau.com/fr-fr/support/knowledgebase#desktop">Documentation Tableau</a></li>
     <li><a href="https://stackoverflow.com/questions/tagged/tableau-desktop">Stackoverflow : Forum 'Tableau'</a></li>
+    <li><a href="https://github.com/holtzy">Github 'Holtzy'</a></li>
+    <li><a href="https://www.yan-holtz.com/">Portfolio 'Yann Holtz'</a></li>
 
   <h2>2. Design</h2>
     <li><a href="https://openclassrooms.com/fr/courses/5238041-communiquez-et-formalisez-vos-idees-par-le-storytelling">Openclassrooms : Communiquez et formalisez vos idées par le storytelling</a></li>
