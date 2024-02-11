@@ -1,10 +1,22 @@
 # Create your Business Intelligence Analyst portfolio
 
-# Visualize data with Excel
-
 <h1>I. Context</h1>
 
-Following many departures, **Primero Bank** company mandated us to carry out a data processing of her commercial management software.
+Several poles compose the ESN. Divided by business segment (aeronautics, healthcare…)
+
+In each pole, commercial managers develop their own business revenue.
+
+To develop their business revenue, they call upon skills of consultants to carry out missions.
+
+An opportunity has offer to me within an international team for a project who will start in 2 weeks.
+
+This mission for a major aeronautics manufacturer will last 4 months and several trips across Europe are expected.
+
+The mission consist to optimize the supply chain with their suppliers. It will be necessary to analyze data and create dashboards for the logistics management teams. 
+
+To apply for this post, I'll need to create a dashboard to assess and provide proofs of my skills. I will also have to create a portfolio to highlight projects already completed. 
+
+
 
 That data analysis had to allow to identify the common characteristics to customers who have left their establishment.
 
