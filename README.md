@@ -43,7 +43,7 @@ To apply for this post, I'll need to create a dashboard to assess and provide pr
     <li>Create many spreadsheets to represent my skills.</li>
     <li>Use parameters and calculate fields to help to have better visualizations.</li>
     <li>Add filters to connect spreadsheets with each others and expose my progression.</li>
-    <li>Add them to dashboards.</li>
+    <li>Add them to dashboards and control the different connections.</li>
     <li>Create a link to my portfolio.</li>
 
   <h2>6. Do my portfolio</h2>
@@ -56,17 +56,22 @@ To apply for this post, I'll need to create a dashboard to assess and provide pr
 <h1>III. Technologies & skills</h1>
 
    <h2>1. Technologies</h2>
-     <li>Microsoft Excel</li>
-     <li>Microsoft Powerpoint</li>
+     <li>Microsoft Excel - Poer Pivot</li>
+     <li>Figma</li>
+     <li>Miro</li>
+     <li>Tableau Public</li>
+     <li>Github</li>
+     <li>HTML5</li>
 
    <h2>2. Assessed skills</h2>
-     <li>Analyze user data by selecting a suitable methodology</li>
      <li>Present data to users by using data visualization techniques</li>
+     <li>Adopt posture of a Business Intelligence Analyst</li>
+     <li>Analyze a customer need to formulate analytical questions</li>
 
 <h1>IV. References</h1>
 
   <h2>1. Data</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees">Openclassrooms : Développez votre culture des données</a></li>
+    <li><a href="https://openclassrooms.com/fr/courses/8200086-realisez-un-dashboard-avec-tableau">Openclassrooms : Réalisez un dashboard avec Tableau</a></li>
 
   <h2>2. Office tools</h2>
     <li><a href="https://openclassrooms.com/fr/courses/7168336-maitrisez-les-fondamentaux-dexcel">Openclassrooms : Maitrîsez les fondamentaux d'Excel</a></li>
