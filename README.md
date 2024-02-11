@@ -16,31 +16,24 @@ The mission consist to optimize the supply chain with their suppliers. It will b
 
 To apply for this post, I'll need to create a dashboard to assess and provide proofs of my skills. I will also have to create a portfolio to highlight projects already completed. 
 
-
-
-That data analysis had to allow to identify the common characteristics to customers who have left their establishment.
-
-It also had to allow to identify the proportion of customers who could leave the bank in the future.
-
-Thereby, they could put in place an action plan in order to avoid a new wave of departures.
-
 <h1>II. Methodology</h1>
 
-  <h2>1. Define goals of communication</h2>
-    <li>Bank's objectives by requesting our expertise</li>
-    <li>Their communication's targets</li>
-    <li>Their communication's goals</li>
+  <h2>1. Collect and clean data</h2>
+    <li>Download the dataset “référentiel de compétences” containing all the certifying skills learned during my training course.</li>
+    <li>Clean the dataset by keeping only the data to highlight in our dashboard.</li>
+    <li>Revise all the projects completed to remember me every skills I learned and used.</li>
 
-  <h2>2. Transform data in informations</h2>
-    <li>Vizualisation and cleaning of Primero Bank database</li>
-    <li>Data analysis and use many skills (like statistics functions, filters, aggregation and pivot tables) to identify customers types who leave the bank and proportion of current customers who could quit the bank</li>
+  <h2>2. Carry out a skills assessment</h2>
+    <li>Determine which hardskills and sofskills I’ll need to highlight in our dashboard.</li>
+    <li>Ask my manager to have feedbacks to help me to define my skills level, before and after my projects completed.</li>
+    <li>Doing my self-evaluation, based on tools I used during my training course.</li>
 
-  <h2>3. Visualize data</h2>
-    <li>Creation of graphics based on pivot tables results so that to have more visual communication near our clients</li>
-    <li>Try to do the easier visualizations to read for more understanding by our client (include titles, legends, indications on axes and contrasting colors)</li>
+  <h2>3. Design the dashboard</h2>
+    <li>Do a mind mapping to help me to define a graphic chart and choose a color palette.</li>
+    <li>Realize a mock-up on a collaborative workspace to visualize which skills will be represent on each graphics.</li>
     <li>Use different types of visualizations to have the best representation of informations</li>
 
-  <h2>4. Present the results to our client</h2>
+  <h2>4. Create data </h2>
     <li>Selection of the most relevant and impactful results to communicate</li>
     <li>Present the visualizations by connecting their with client objectives</li>
     <li>Presentation of the results through a report who don't use specific vocabulary. Our client is not technic so "popularize" is the keyword. </li>
