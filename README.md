@@ -31,12 +31,27 @@ To apply for this post, I'll need to create a dashboard to assess and provide pr
   <h2>3. Design the dashboard</h2>
     <li>Do a mind mapping to help me to define a graphic chart and choose a color palette.</li>
     <li>Realize a mock-up on a collaborative workspace to visualize which skills will be represent on each graphics.</li>
-    <li>Use different types of visualizations to have the best representation of informations</li>
+    <li>Include notes to explain and remember my plan.</li>
 
-  <h2>4. Create data </h2>
-    <li>Selection of the most relevant and impactful results to communicate</li>
-    <li>Present the visualizations by connecting their with client objectives</li>
-    <li>Presentation of the results through a report who don't use specific vocabulary. Our client is not technic so "popularize" is the keyword. </li>
+  <h2>4. Create files</h2>
+    <li>Create tables and fill cells with necessary data.</li>
+    <li>Define which variables (columns) will use to connect tables with each other.</li>
+    <li>Carry out a data dictionnary of all data I’ll use in my future dashboard.</li>
+
+  <h2>5. Do my interactive dashboard</h2>
+    <li>Import files and connect tables with each other.</li>
+    <li>Create many spreadsheets to represent my skills.</li>
+    <li>Use parameters and calculate fields to help to have better visualizations.</li>
+    <li>Add filters to connect spreadsheets with each others and expose my progression.</li>
+    <li>Add them to dashboards.</li>
+    <li>Create a link to my portfolio.</li>
+
+  <h2>6. Do my portfolio</h2>
+    <li>Use collaborative workspace to create and share my portfolio.</li>
+    <li>Create repositories for each project completed.</li>
+    <li>Describe how I proceeded to realize each projects (context, methodology, technologies used, references...).</li>
+    <li>Add deliverables to illustrate my work.</li>
+    <li>Create a link to my interactive dashboard.</li>
 
 <h1>III. Technologies & skills</h1>
 
