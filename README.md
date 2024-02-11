@@ -30,6 +30,7 @@ To apply for this post, I'll need to create a dashboard to assess and provide pr
 
   <h2>3. Design the dashboard</h2>
     <li>Do a mind mapping to help me to define a graphic chart and choose a color palette.</li>
+    <li>Go to Tableau Public to find inspiration and show what type of visualizations is possible.</li>
     <li>Realize a mock-up on a collaborative workspace to visualize which skills will be represent on each graphics.</li>
     <li>Include notes to explain and remember my plan.</li>
 
@@ -56,7 +57,7 @@ To apply for this post, I'll need to create a dashboard to assess and provide pr
 <h1>III. Technologies & skills</h1>
 
    <h2>1. Technologies</h2>
-     <li>Microsoft Excel - Poer Pivot</li>
+     <li>Microsoft Excel - Power Pivot</li>
      <li>Figma</li>
      <li>Miro</li>
      <li>Tableau Public</li>
@@ -72,11 +73,12 @@ To apply for this post, I'll need to create a dashboard to assess and provide pr
 
   <h2>1. Data</h2>
     <li><a href="https://openclassrooms.com/fr/courses/8200086-realisez-un-dashboard-avec-tableau">Openclassrooms : Réalisez un dashboard avec Tableau</a></li>
+    <li><a href="https://openclassrooms.com/fr/courses/8106476-trouvez-votre-premier-emploi-en-data">Openclassrooms : Trouvez votre premier emploi en data</a></li>
 
-  <h2>2. Office tools</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/7168336-maitrisez-les-fondamentaux-dexcel">Openclassrooms : Maitrîsez les fondamentaux d'Excel</a></li>
-    <li><a href="https://openclassrooms.com/fr/courses/7139456-perfectionnez-vous-sur-excel">Openclassrooms : Perfectionnez vous sur Excel</a></li>
+  <h2>2. Design</h2>
+    <li><a href="https://openclassrooms.com/fr/courses/5238041-communiquez-et-formalisez-vos-idees-par-le-storytelling">Openclassrooms : Communiquez et formalisez vos idées par le storytelling</a></li>
  
   <h2>3. Softskills</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations">Openclassrooms : Améliorez l'impact de vos présentations</a></li>
-    <li><a href="https://course.oc-static.com/projects/Data+Storytelling+639/Fiche+pratique+-+Les+principaux+types+de++visualisations.pdf">Fiche Pratique : Les principaux types de visualisations</li>
+    <li><a href="https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public">Openclassrooms : Prenez la parole en public</a></li>
+    <li><a href="https://openclassrooms.com/fr/courses/4929676-redigez-des-ecrits-professionnels">Openclassrooms : Rédigez des écrits professionnels</li>
+    <li><a href="https://openclassrooms.com/fr/courses/5164316-travaillez-efficacement-en-equipe">Openclassrooms : Travaillez efficacement en équipe</li>
