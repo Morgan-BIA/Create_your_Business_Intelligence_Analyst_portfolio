@@ -74,9 +74,14 @@ To apply for this post, I'll need to create a dashboard to assess and provide pr
   <h2>1. Data</h2>
     <li><a href="https://openclassrooms.com/fr/courses/8200086-realisez-un-dashboard-avec-tableau">Openclassrooms : Réalisez un dashboard avec Tableau</a></li>
     <li><a href="https://openclassrooms.com/fr/courses/8106476-trouvez-votre-premier-emploi-en-data">Openclassrooms : Trouvez votre premier emploi en data</a></li>
+    <li><a href="https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/Business+Intelligence+Analyst/BIA_project+9/P9-Dictionnaire+des+donne%CC%81es+utilise%CC%81es+(1).xlsx">Openclassrooms : Template dictionnaire de données</a></li>
+    <li><a href="https://public.tableau.com/app/profile/andy.kriebel/viz/VisualVocabulary/VisualVocabulary">Tableau Public 'Andy Kriebel': Visual Vocabulary</li>
+    <li><a href="https://www.tableau.com/fr-fr/support/knowledgebase#desktop">Documentation Tableau</a></li>
+    <li><a href="https://stackoverflow.com/questions/tagged/tableau-desktop">Stackoverflow : Forum 'Tableau'</a></li>
 
   <h2>2. Design</h2>
     <li><a href="https://openclassrooms.com/fr/courses/5238041-communiquez-et-formalisez-vos-idees-par-le-storytelling">Openclassrooms : Communiquez et formalisez vos idées par le storytelling</a></li>
+    <li><a href="https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/Business+Intelligence+Analyst/BIA_project+9/Mode%CC%80le+de+Sketch-+Mock+up.png">Openclassrooms : Modèle mock-up Miro</a></li>
     <li><a href="https://www.tableau.com/fr-fr/interactive-resume-gallery">Tableau Public : Interactive resume gallery</a></li>
  
   <h2>3. Softskills</h2>
